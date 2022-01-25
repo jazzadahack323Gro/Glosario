@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
 ### Glosario
-- List
 
 1. Backend: es la parte del desarrollo web que se encarga de que toda la lógica de una página web funcione.
 2. Frontend: consiste en la conversión de datos en una interfaz gráfica para que el usuario pueda ver e interactuar con la información de forma digital usando HTML, CSS y JavaScript.
