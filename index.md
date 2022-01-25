@@ -21,7 +21,7 @@ Glosario
 1. Backend: es la parte del desarrollo web que se encarga de que toda la lógica de una página web funcione.
 2. Frontend: consiste en la conversión de datos en una interfaz gráfica para que el usuario pueda ver e interactuar con la información de forma digital usando HTML, CSS y JavaScript.
 3. Movil: La tecnología móvil es la tecnología utilizada para la comunicación celular. La tecnología móvil ha evolucionado rápidamente en los últimos años.
-4. Iot: La internet de las cosas ​ es un concepto que se refiere a una interconexión digital de objetos cotidianos con internet.​​ 
+4. Iot: La internet de las cosas es un concepto que se refiere a una interconexión digital de objetos cotidianos con internet.​​ 
 5. -ML: El Machine Learning es una disciplina del campo de la Inteligencia Artificial que, a través de algoritmos, dota a los ordenadores de la capacidad de identificar patrones en datos masivos y elaborar predicciones (análisis predictivo).
 5. AI: La inteligencia artificial (IA) es, en informática, la inteligencia expresada por máquinas, sus procesadores y sus softwares, que serían los análogos al cuerpo, el cerebro y la mente, respectivamente, a diferencia de la inteligencia natural demostrada por humanos y ciertos animales con cerebros complejos. Se considera que el origen de la IA se remonta a los intentos del hombre de 
 6. Juegos:
