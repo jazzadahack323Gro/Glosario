@@ -23,18 +23,17 @@ Glosario
 3. Movil: La tecnología móvil es la tecnología utilizada para la comunicación celular. La tecnología móvil ha evolucionado rápidamente en los últimos años.
 4. Iot: La internet de las cosas es un concepto que se refiere a una interconexión digital de objetos cotidianos con internet.​​ 
 5. -ML: El Machine Learning es una disciplina del campo de la Inteligencia Artificial que, a través de algoritmos, dota a los ordenadores de la capacidad de identificar patrones en datos masivos y elaborar predicciones (análisis predictivo).
-5. AI: La inteligencia artificial (IA) es, en informática, la inteligencia expresada por máquinas, sus procesadores y sus softwares, que serían los análogos al cuerpo, el cerebro y la mente, respectivamente, a diferencia de la inteligencia natural demostrada por humanos y ciertos animales con cerebros complejos. Se considera que el origen de la IA se remonta a los intentos del hombre de 
-6. Juegos:
-7. Seguridad:
-8. Embedidos:
-9. OS: 
-10. Testing-QA
-11. StackOverlow:
+6. AI: La inteligencia artificial (IA) es, en informática, la inteligencia expresada por máquinas, sus procesadores y sus softwares, que serían los análogos al cuerpo, el cerebro y la mente, respectivamente, a diferencia de la inteligencia natural demostrada por humanos y ciertos animales con cerebros complejos. Se considera que el origen de la IA se remonta a los intentos del hombre de 
+7. Seguridad:La seguridad informática, también conocida como ciberseguridad,1​ es el área relacionada con la informática y la telemática que se enfoca en la protección de la infraestructura computacional y todo lo vinculado con la misma, y especialmente la información contenida en una computadora o circulante a través de las redes de computadoras.
+8. Embedidos: Las embedded technologies o tecnologías embebidas son sistemas informáticos integrados en un producto electrónico y diseñados para realizar una o varias funciones específicas. Su objetivo es optimizar el producto en cuestión reduciendo su tamaño o coste o mejorando prestaciones relacionadas con su funcionalidad, eficiencia, disponibilidad, etc.
+9. OS: El sistema operativo es el software que coordina y dirige todos los servicios y aplicaciones que utiliza el usuario en una computadora, por eso es el más importante y fundamental. Se trata de programas que permiten y regulan los aspectos más básicos del sistema. Los sistemas operativos más utilizados son Windows, Linux, OS/2 y DOS.
+10. Testing-QA: Es responsable por realizar el Control de Calidad del Producto de Software (Quality Control), intentando encontrar la mayor cantidad de fallas antes de que el software salga a producción.
+11. StackOverlow:es un sitio de preguntas y respuestas para programadores profesionales y aficionados. Es el sitio emblemático de la red Stack Exchange, ​ creado en 2008 por Jeff Atwood y Joel Spolsky.​​ Contiene preguntas y respuestas sobre una amplia gama de temas de programación.
 12. Contenedor: Los contenedores son unidades abstractas de software que tienen todo lo que necesita para ejecutar una carga de trabajo o procesamiento. La orquestación de contenedores es la capacidad de implementar y gestionar múltiples contenedores en la infraestructura de la nube privada y pública.
-13. Localhost
-14. Contenedor
-15. Redis
-16. Repositorio
+13. Localhost: en el contexto de redes TCP/IP, localhost es un nombre reservado que tienen todas las computadoras, routers o dispositivos independientemente de que dispongan o no de una tarjeta de red ethernet. 
+14. Repositorio: contiene todos los archivos de tu proyecto y el historial de revisiones de cada uno de ellos. Puedes debatir y administrar el trabajo de tu proyecto dentro del repositorio.
+15. Redis:es un motor de base de datos en memoria, basado en el almacenamiento en tablas de hashes (clave/valor) pero que opcionalmente puede ser usada como una base de datos durable o persistente
+16. Docker: 
 17. Dockerfile
 18. OpenSource
 19. Constante
@@ -61,6 +60,7 @@ Glosario
 40. Linux
 41. Kubernetes
 42. SQL
+
 43. 
 44. 
 45. 
