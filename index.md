@@ -1,21 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jazz-adahack323/JAZMINGMAIL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-### Header 3
-Glosario
-## Header 2
-**Bold**
-# Header 1
+### Glosario
 - List
 
 1. Backend: es la parte del desarrollo web que se encarga de que toda la lógica de una página web funcione.
@@ -33,33 +18,34 @@ Glosario
 13. Localhost: en el contexto de redes TCP/IP, localhost es un nombre reservado que tienen todas las computadoras, routers o dispositivos independientemente de que dispongan o no de una tarjeta de red ethernet. 
 14. Repositorio: contiene todos los archivos de tu proyecto y el historial de revisiones de cada uno de ellos. Puedes debatir y administrar el trabajo de tu proyecto dentro del repositorio.
 15. Redis:es un motor de base de datos en memoria, basado en el almacenamiento en tablas de hashes (clave/valor) pero que opcionalmente puede ser usada como una base de datos durable o persistente
-16. Docker: 
-17. Dockerfile
-18. OpenSource
-19. Constante
-20. Variable
-21. IP
-22. Plugin
-23. JSON
-24. For
-25. While
-26. Do while
-27. Arreglo o Array
-28. ForEach
-29. Header 
-30. Git
-31. Github
-32. commit
-33. Branch
-34. Reset
-35. Revert
-36. Merge
-37. Rebase
-38. Switch
-39. JavaScript
-40. Linux
-41. Kubernetes
-42. SQL
+15. Redis:es un motor de base de datos en memoria, basado en el almacenamiento en tablas de hashes (clave/valor) pero que opcionalmente puede ser usada como una base de datos durable o persistente
+16. Docker: es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​ 
+17. Dockerfile: es un archivo de texto plano que contiene una serie de instrucciones necesarias para crear una imagen que, posteriormente, se convertirá en una sola aplicación utilizada para un determinado propósito. Similar a lo explicado anteriormente, y la base del funcionamiento de Docker es mediante Dockerfiles.
+18. OpenSource: El software de código abierto es el software cuyo código fuente y otros derechos que normalmente son exclusivos para quienes poseen los derechos de autor, son publicados bajo una licencia de código abierto o forman parte del dominio público.
+19. Constante: es un valor que no puede ser alterado/modificado durante la ejecución de un programa, únicamente puede ser leído
+20. Variable: una variable está formada por un espacio en el sistema de almacenaje y un nombre simbólico que está asociado a dicho espacio. Ese espacio contiene una cantidad de información conocida o desconocida, es decir un valor.
+21. IP: significa “protocolo de Internet”, que es el conjunto de reglas que rigen el formato de los datos enviados a través de Internet o la red local.
+22. Plugin: En informática, un complemento o plug-in es una aplicación que se relaciona con otra para agregarle una función nueva y generalmente muy específica.
+23. JSON: es un formato de texto sencillo para el intercambio de datos. Se trata de un subconjunto de la notación literal de objetos de JavaScript, aunque, debido a su amplia adopción como alternativa a XML, se considera un formato independiente del lenguaje.
+24. For: El ciclo for es uno de los más utilizados en programación debido a que permite repetir varias instrucciones (pasos) un cierto número de ocasiones (por ejemplo, 10 veces). Se emplea en el recorrido de vectores, matrices y estructuras, entre otros 
+25. While: La sentencia (hacer mientras) crea un bucle que ejecuta una sentencia especificada, hasta que la condición de comprobación se evalúa como falsa. La condición se evalúa después de ejecutar la sentencia, dando como resultado que la sentencia especificada se ejecute al menos una vez.
+26. Do while: El bucle do, bucle hacer, hacer-mientras o también llamado ciclo do-while, es una estructura de control de la mayoría de los lenguajes de programación estructurados cuyo propósito es ejecutar un bloque de código y repetir la ejecución mientras se cumpla cierta condición expresada en la cláusula while.
+27. Arreglo o Array: En programación, se le denomina vector, formación, matriz, ​ a una zona de almacenamiento contiguo que contiene una serie de elementos del mismo tipo, los elementos de la matriz.​ Desde el punto de vista lógico una matriz se puede ver como un conjunto de elementos ordenados en fila.
+28. ForEach: El bucle foreach es un tipo especial de bucle que permite recorrer estructuras que contienen varios elementos (como matrices, recursos u objetos) sin necesidad de preocuparse por el número de elementos.
+29. Header: En informática, cabecera (header en inglés) se refiere a la información suplementaria situada al principio de un bloque de información que va a ser almacenada o transmitida y que contiene información necesaria para el correcto tratamiento del bloque de información. 
+30. Git: es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente
+31. Github: es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
+32. Commit: Consolidar, confirmar​ o hacer un commit se refiere, en el contexto de la ciencia de la computación y la gestión de datos, a la idea de confirmar un conjunto de cambios provisionales de forma permanente. Un uso popular es al final de una transacción de base de datos.
+33. Branch:
+34. Reset:
+35. Revert:
+36. Merge:
+37. Rebase:
+38. Switch:
+39. JavaScript:
+40. Linux:
+41. Kubernetes: 
+42. SQL:
 
 43. 
 44. 
